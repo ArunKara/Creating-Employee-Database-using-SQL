@@ -1,2 +1,0 @@
-# sqlchallenge
-SQL Challenge Homework
